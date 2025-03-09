@@ -13,8 +13,8 @@ An remake of the popular **Roblox Client Tracker**, It is an unofficial change t
 ## Change-Log.txt
 A text file for the change-logs in Roblox.
 
-## Fast-Flags.txt
-A text file of all FastFlags.
+## Fast-Flags.json
+A json file of all FastFlags.
 
 ## version.txt
 Describes the current version of Roblox.<br/>
